@@ -1,16 +1,38 @@
-# finance
+# Flutter Mobile UI Clone
 
-A new Flutter project.
+## Project Description
+A personal Flutter mobile UI clone project created for learning purposes, not for commercial use.
 
-## Getting Started
+## Technologies
+- Flutter 3.24.1
+- Dart 3.5.1
 
-This project is a starting point for a Flutter application.
+## Features
+- Pixel-perfect Figma design reproduction
+- Responsive Flutter UI
+- Non-commercial learning project
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
+```bash
+git clone https://github.com/nghiale1/finance.git
+cd finance
+flutter pub get
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Design Source
+- **Figma Design**: https://www.figma.com/community/file/1182327816554487745/finance-app-card-animation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+MIT License
+
+## Support
+If you find this project helpful, you can support me:
+
+<a href="https://buymeacoffee.com/nghiale1" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+
+## Contact
+Nghia Le Minh
+
+minhnghia2311@gmail.com
