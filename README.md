@@ -20,6 +20,12 @@ flutter pub get
 flutter run
 ```
 
+## UI
+<div style="display: flex; justify-content: space-between;">
+<img src="https://github.com/user-attachments/assets/d1e83199-202e-4905-bd9f-80ed1b2c902d" width="40%" />
+<img src="https://github.com/user-attachments/assets/875d8a30-9196-4445-ba84-594bef307373" width="40%"/>
+</div>
+
 ## Design Source
 - **Figma Design**: https://www.figma.com/community/file/1182327816554487745/finance-app-card-animation
 
